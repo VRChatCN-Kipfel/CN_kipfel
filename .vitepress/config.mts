@@ -39,25 +39,31 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '社区的喵言喵语',
-        items: [
-          { text: '发言协定', link: '/utils/advocate' },
-          { text: '安全协议', link: '/utils/rules' },
-          { text: '常开房间', link: '/utils/regular-rooms'},
-          { text: '猫猫守则', link: '/404'}
-        ]
+          text: '社区的喵言喵语',
+          items: [
+              { text: '发言协定', link: '/utils/advocate' },
+              { text: '安全协议', link: '/utils/rules' },
+              { text: '常开房间', link: '/utils/regular-rooms'},
+              { text: '猫猫守则', link: '/404'}
+          ]
       },
       {
-              text: '冲！是猫窝！',
-              items: [
+          text: '冲！是猫窝！',
+          items: [
                 { text: '如何加入聊天群', link: '/join-chatroom' }
-            ]
+          ]
+      },
+      {
+          text: '猫窝大事纪',
+          items: [
+                { text: '103事件', link: '/event/103' }
+          ]
       },
       {
         text: '猫猫们的好朋友',
-        items: [
-          { text: '友链导航', link: '/neighbor/friendly' }
-      ]
+          items: [
+                { text: '友链导航', link: '/neighbor/friendly' }
+          ]
       }
     ],
 
