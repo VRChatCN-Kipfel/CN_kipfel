@@ -13,7 +13,7 @@ const { frontmatter } = toRefs(useData());
 const route = useRoute();
 
         giscusTalk({
-            repo: 'XChen446/CN_kipfel',
+            repo: 'VRChatCN-Kipfel/CN_kipfel',
             repoId: 'R_kgDOQsvFrg',
             category: 'General',
             categoryId: 'DIC_kwDOQsvFrs4C0FMK',
