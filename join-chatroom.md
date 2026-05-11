@@ -60,11 +60,11 @@
 <br> *当然你也可以选择在进群答案中写一些你遇到的问题，我们会视情况协助解决*
 - 另附：手机端QQ因为受到字数限制，所以无法输入完整的VRC usrid，<br>有条件请使用电脑端QQ提交答案
 ::: tip 
-我们希望新的猫猫*在没有特殊需求的情况*下**尽量流向更新的群**
-四个群聊相同用途**并无地位高低之分**
-这样设计的原因是为了尽量**避免新猫融入不进聊天，从而被边缘化**的情况出现
-我们的初衷是为每一位猫猫都尽力搭建一个更好的环境，一个温馨的小窝
-*所以请各位务必深思自己是否有必要进入更旧的群！* **感谢配合！**
+我们希望新的猫猫*在没有特殊需求的情况*下**尽量流向更新的群**<br>
+四个群聊相同用途**并无地位高低之分**<br>
+- 这样设计的原因是为了尽量**避免新猫融入不进聊天，从而被边缘化**的情况出现<br>
+我们的初衷是为每一位猫猫都尽力搭建一个更好的环境，一个温馨的小窝<br>
+*所以请各位务必深思自己是否有必要进入更旧的群！* **感谢配合！** <br>
 :::
 ::: details **欢迎回家!** &emsp; &emsp; *展开以展示QQ群链接*
 - ~~[VRChat 中文kipfel厅 ① Spring](base64:aHR0cHM6Ly9xdW4ucXEuY29tL3VuaXZlcnNhbC1zaGFyZS9zaGFyZT8mYXV0aEtleT01TUJJZmMwSFZ5R0UyTTNISzZtRDU1Z2RXeWVoJTJCSEVhcUJiQnhLcDdJeWtzUWp5ZkJCVldnYU9DN3dibXZ5MFImYnVzaV9kYXRhPWV5Sm5jbTkxY0VOdlpHVWlPaUl4TURjM01URXhPRGs0SWl3aWRHOXJaVzRpT2lJd1ZHSTNOWEpzYmxWU1ZUUXZVRkpqVjBOMU5tOHpPVGxpU0UxaFVWRm9SMVI2TUd4bE1HOW1XRGxKVFc1VVpUTXlVVE56U1ROR1prZE9LMUpuZFUweEluMCUzRCZkYXRhPW4wSnBCLU4tZmQ3djJkOTBSOFZ3NTZZTE55TUFBMllTSGkyV1kxM1QwbXY3N1YtZU40Vm9QOXV1R09Zbi14LW9tSEFlRnd2SkhyNWdLMjVDZXp6U1FPdWptVVc3U3RaZ09jVHV4a0I0dFA4JnN2Y3R5cGU9NSZ0ZW1waWQ9aDVfZ3JvdXBfaW5mbw==)~~ （已满）
