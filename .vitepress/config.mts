@@ -68,8 +68,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
+      { icon: 'qq', link: 'https://pd.qq.com/s/drxp8iedg' },
       { icon: 'discord', link: 'https://discord.gg/hcFud5y8a3' },
-      { icon: 'github', link: 'https://github.com/XChen446/CN_kipfel' }
+      { icon: 'github', link: 'https://github.com/VRChatCN-Kipfel' }
     ]
   }
 })
