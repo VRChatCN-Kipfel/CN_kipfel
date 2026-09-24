@@ -41,6 +41,6 @@ features:
   - title: 我们建设
     details: 别看咱了！看右上角咪！<br>点咱会原地TP的咪！
     link: /
-    linkText: 右上角！右上角！
+    linkText: 原地TP
 ---
 
