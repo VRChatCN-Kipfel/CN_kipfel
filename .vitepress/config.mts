@@ -56,7 +56,8 @@ export default defineConfig({
       {
           text: '猫窝大事纪',
           items: [
-                { text: '103事件', link: '/event/103' }
+                { text: '103事件', link: '/event/103' },
+                { text: '一周年纪念活动', link: '/event/anniversary-2026' }
           ]
       },
       {
