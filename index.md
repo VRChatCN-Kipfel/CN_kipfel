@@ -39,8 +39,8 @@ features:
     link: /neighbor/friendly
     linkText: 查看社区友谊导航
   - title: 我们建设
-    details: <br>
+    details: 别看咱了！看右上角咪！<br>点咱会原地TP的咪！
     link: /
-    linkText: 敬请期待……
+    linkText: 右上角！右上角！
 ---
 
