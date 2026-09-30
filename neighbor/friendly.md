@@ -23,3 +23,7 @@ https://vrc.group/GAME.0421
 https://vrc.group/1MUFR1.6419
 
 ![1MUFR1.6419.png](https://api.vrchat.cloud/api/1/file/file_1120c271-b211-40f7-b452-127b1c88bb02/1/file)
+### 顺顺的 VRChat 小站 【社区网站】
+[https://vrchat.shunfishingtime.ink/](https://vrchat.shunfishingtime.ink/)
+
+![顺顺的 VRChat 小站](/res/shunshun-vrc-site.webp)
