@@ -33,6 +33,7 @@ export default defineConfig({
                   { text: '中文游戏社区 【VRChat】', link: 'https://vrc.group/GAME.0421' },
                   { text: '百瑞斯塔 BARISTA 【VRChat】', link: 'https://vrc.group/BARIST.4979' },
                   { text: '撫眠屋 【VRChat】', link: 'https://vrc.group/NABEYA.2781' },
+                  { text: '顺顺的 VRChat 小站 【新手引导网站】', link: 'https://vrchat.shunfishingtime.ink' }
               ],
           }
     ],
